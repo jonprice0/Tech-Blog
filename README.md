@@ -6,8 +6,8 @@
 
 ## Website:
 
-[Demo the at Heroku.](https://afternoon-meadow-56372.herokuapp.com/)
- 
+[Demo the at Heroku.](https://git.heroku.com/afternoon-meadow-56372.git)
+
 ## Built with:
 
 * HTML
