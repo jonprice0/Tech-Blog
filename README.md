@@ -6,7 +6,7 @@
 
 ## Website:
 
-[Demo the at Heroku.](https://git.heroku.com/afternoon-meadow-56372.git)
+[Demo the application at Heroku.](https://git.heroku.com/afternoon-meadow-56372.git)
 
 ## Built with:
 
